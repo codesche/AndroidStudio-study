@@ -1,5 +1,4 @@
 # AndroidStudio-study
-# 📱 CS 교육 앱 개발 일지 — Day 1
 
 **2026.03.31** | Android Studio + Kotlin + Jetpack Compose
 
